@@ -6,6 +6,7 @@ The robot is designed as a **high-torque 4-wheel drive platform** controlled usi
 The control system reads PWM signals from the receiver and converts them into motor control signals to drive the robot forward, backward, and steer using differential drive.
 
 ---
+![Robo Soccer Rush Race](IMAGES/Screenshot%202026-03-13%20185125.png)
 
 # System Overview
 
